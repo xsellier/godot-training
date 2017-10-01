@@ -1,4 +1,4 @@
-extends Node2D
+extends SceneTree
 
 # Calcul du mot de contenant le plus de lettre différente
 # Avec le texte donné, retourner le mot qui contient le plus de lettre différente.
@@ -9,7 +9,7 @@ var filter_string = ""
 var final_word    = ""
 var word_size     = 0
 
-func _ready():
+func _init():
 	for letter in TEXT.to_lower():
 		if letter in LETTERS:
 			filter_string += letter
@@ -33,3 +33,5 @@ func _ready():
 					final_word = word
 
 	print("Le mot %s, est le plus long avec %s caractères!" % [final_word, word_size])
+
+	quit()

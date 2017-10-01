@@ -1,4 +1,4 @@
-extends Node2D
+extends SceneTree
 
 # En faisant une combinaison de 2 noms, essayez de trouver le plus de palindromes possible.
 # Par exemple:
@@ -9,7 +9,7 @@ const WORDS        = ['mon', 'nom', 'possible', 'romuald', 'laumor', 'pierre', '
 var concat_words   = []
 var nb_of_palindrome = []
 
-func _ready():
+func _init():
 	# Concatenation des noms
 	# Variable index1 & index2 utilisées par rapport aux deux derniers mots du tableau
     var index1 = 0
@@ -33,3 +33,5 @@ func _ready():
     # Affichage console
     print("Origin words: %s" % [WORDS])
     print("Nb of Palindrome: %s => %s" % [nb_of_palindrome.size(), nb_of_palindrome])
+
+    quit()
