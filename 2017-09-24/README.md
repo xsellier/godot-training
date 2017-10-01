@@ -7,3 +7,13 @@ const TEXT = 'N’est-il pas diablement aisé de se prendre pour un grand homme 
 ```
 
 Avec le texte donné, retourner le mot qui contient le plus de lettre différente.
+
+## Correction
+
+[Voir la correction](./correction.gd)
+
+## Exécuter le script
+
+```shell
+godot -s correction.gd
+```
