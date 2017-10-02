@@ -3,7 +3,7 @@
 ## Énoncé
 
 A l'aide de Godot Engine, créez une scène ne comportant qu'un seul de type Node2D.
-Lorsque ce noeud est ajout a une scène il doit dessiner une grille à l'écran. Ce noeud doit exposer 4 paramètres qui doivent être modifiables par l'interface des noeuds de Godot Engine.
+Lorsque ce noeud est ajouté a une scène il doit dessiner une grille à l'écran. Ce noeud doit exposer 4 paramètres qui doivent être modifiables par l'interface des noeuds de Godot Engine.
 
 Voici les 4 paramètres a exposer:
 
