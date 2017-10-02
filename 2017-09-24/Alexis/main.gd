@@ -23,7 +23,7 @@ func _init():
 		var count_letter = 0
 		for letter in word:
 			if letter in filter_letter:
-				filter_letter.replace(letter, "")
+				pass
 			else:
 				filter_letter += letter
 				count_letter  += 1
