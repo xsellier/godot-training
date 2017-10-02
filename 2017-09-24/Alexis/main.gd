@@ -28,9 +28,9 @@ func _init():
 				filter_letter += letter
 				count_letter  += 1
 
-				if count_letter > word_size:
-					word_size  = count_letter
-					final_word = word
+		if count_letter > word_size:
+			word_size  = count_letter
+			final_word = word
 
 	print("Le mot %s, est le plus long avec %s caractères!" % [final_word, word_size])
 
