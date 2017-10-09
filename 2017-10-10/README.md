@@ -25,7 +25,7 @@ const characters = {
   Philibert = 0.0149
   JeanLuc = 0.0198
   AnneSophie = 0.01024
-  Élizabeth = 0.010085
+  Élizabeth = 1.010085
   Maurice = 0.018901
   Morticia = 0.0200401
 }
