@@ -29,5 +29,5 @@ Ajouter un cinquième paramètre permettant d'effectuer une rotation de la grill
 ## Exécuter le script
 
 ```shell
-godot -s correction.gd
+godot -path correction/
 ```
