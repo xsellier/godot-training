@@ -21,3 +21,13 @@ La grille doit être centrée sur l'origine du noeud. Autrement dit, le (x, y) d
 ## Bonus
 
 Ajouter un cinquième paramètre permettant d'effectuer une rotation de la grille suivant un angle donné
+
+## Correction
+
+[Voir la correction](./correction)
+
+## Exécuter le script
+
+```shell
+godot -s correction.gd
+```
