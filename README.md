@@ -21,7 +21,7 @@ Le niveau des exercices va aller crescendo, il te suffira alors de commencer par
 
 ### Mais je ne sais vraiment pas programmer !
 
-Il existe de nombreuses ressources sur Internet te permettant d'apprendre les bases, par exemple [openclassroom](https://openclassrooms.com/) (pour ne citer que lui)
+Il existe de nombreuses ressources sur Internet te permettant d'apprendre les bases, par exemple [openclassroom](https://openclassrooms.com/) (pour ne citer que lui). Mais si vous partez de rien, je vous conseille de vous orienter vers [codecademy](https://www.codecademy.com/learn/learn-python).
 
 ## Un exercice ne me semble pas clair !
 
