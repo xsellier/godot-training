@@ -17,16 +17,26 @@ Il est important de ne pas simplement mélanger le tableau. La probabilité de p
 Suivant les probabilités suivantes, vous devez tirer au sort une personne
 
 ```python
-const characters = {
-  Jean = 0.015
-  Pierre = 0.0089
-  Sophie = 0.000059
-  Jeanne = 0.010045
-  Philibert = 0.0149
-  JeanLuc = 0.0198
-  AnneSophie = 0.01024
-  Élizabeth = 1.010085
-  Maurice = 0.018901
+const CHARACTERS = {
+  Jean = 0.015,
+  Pierre = 0.0089,
+  Sophie = 0.000059,
+  Jeanne = 0.010045,
+  Philibert = 0.0149,
+  JeanLuc = 0.0198,
+  AnneSophie = 0.01024,
+  Elizabeth = 1.010085,
+  Maurice = 0.018901,
   Morticia = 0.0200401
 }
+```
+
+## Correction
+
+[Voir la correction](./correction.gd)
+
+## Exécuter le script
+
+```shell
+godot -s correction.gd
 ```
