@@ -2,27 +2,39 @@
 
 La communauté francophone de Godot Engine.
 
-## À quoi ça sert ?
+## Pourquoi ?
 
-Il s'agit une série d'exercices. Vous êtes libre de les faire et/ou de consulter les corrections.
+L'idée c'est de partager le savoir, et de faire que les concepts de programmations basiques et avancés soient à la portée de tous.
 
-## Est-ce que c'est maintenu ?
+### Est-ce que c'est maintenu ?
 
-Chaque Lundi un exercice sera publié avec la correction de l'exercice de la semaine précédente.
+Chaque Lundi un exercice sera publié avec la correction de l'exercice de la semaine précédente. Si lundi est un jour férié, cela est décallé au mardi automatiquement.
 
-## C'est quoi le GDScript ?
+## Qu'est ce que le GDScript ?
 
 Le GDScript est un dérivé du python utilisé par le moteur de jeu Godot Engine.
- Si vous souhaitez en apprendre d'avantage voici la documentation [DevDocs](https://devdocs.io/godot~2.1/).
+ Si vous souhaitez en apprendre d'avantage voici deux liens:
+ * Un [manuel FLOSS](https://fr.flossmanuals.net/godot-game-engine-initiation/ajouter-de-linteractivite-en-gdscript/)
+ * La [documentation de l'API de Godot engine (devdocs)](https://devdocs.io/godot~2.1/)
 
-## Je ne suis pas un développeur, et je n'y connais rien à la programmation.
+## Comment faire si je ne sais pas coder ?
 
-Le niveau des exercices va aller crescendo, il te suffira alors de commencer par le premier exercice afin de pouvoir tous les faires.
+Il y a plusieurs alternatives mais cela dépend de votre savoir et de votre envie d'apprendre. Autrement dit tout dépend de vous uniquement.
 
-### Mais je ne sais vraiment pas programmer !
+Le niveau des exercices va crescendo, il suffira alors de commencer par le premier exercice afin de pouvoir tous les faires.
 
-Il existe de nombreuses ressources sur Internet te permettant d'apprendre les bases, par exemple [openclassroom](https://openclassrooms.com/) (pour ne citer que lui). Mais si vous partez de rien, je vous conseille de vous orienter vers [codecademy](https://www.codecademy.com/learn/learn-python).
+Si jamais le premier exercice est trop corriace, voici deux sites qui permettent d'apprendre les bases de la programmation:
+* [Openclassroom](https://openclassrooms.com/)
+* [Codecademy](https://www.codecademy.com/fr/learn/learn-python)
 
-## Un exercice ne me semble pas clair ou vous avez des questions ?
+## Ou poser des questions ?
 
 Afin de faciliter notre communication, nous avons mis en place un [serveur discord](https://discordapp.com/invite/YUktg7K)
+
+## Comment proposer un exercice ?
+
+Créez l'exercice en vous basant sur un fork de ce git repository, puis faites une merge request. A partir de là l'exercice pourra être intégrer.
+
+### Qu'est ce que git ?
+
+Un seul site va tout vous apprendre [gitimmersion (fr)](http://gitimmersion.fr/), ou le site original [gitimmersion (en)](gitimmersion.com).
