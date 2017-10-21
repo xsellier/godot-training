@@ -23,6 +23,6 @@ Le niveau des exercices va aller crescendo, il te suffira alors de commencer par
 
 Il existe de nombreuses ressources sur Internet te permettant d'apprendre les bases, par exemple [openclassroom](https://openclassrooms.com/) (pour ne citer que lui). Mais si vous partez de rien, je vous conseille de vous orienter vers [codecademy](https://www.codecademy.com/learn/learn-python).
 
-## Un exercice ne me semble pas clair !
+## Un exercice ne me semble pas clair ou vous avez des questions ?
 
 Afin de faciliter notre communication, nous avons mis en place un [serveur discord](https://discordapp.com/invite/YUktg7K)
