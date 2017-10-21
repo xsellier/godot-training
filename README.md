@@ -1,10 +1,10 @@
-# Godot Training
+# ![Godot social Club](./img/godot-fr-56.png) Godot Training
 
 La communauté francophone de Godot Engine.
 
 ## À quoi ça sert ?
 
-Il s'agit une liste d'exercices. Vous êtes libre de les faire et de consulter les corrections.
+Il s'agit une série d'exercices. Vous êtes libre de les faire et/ou de consulter les corrections.
 
 ## Est-ce que c'est maintenu ?
 
