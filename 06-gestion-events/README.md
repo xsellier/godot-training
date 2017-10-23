@@ -3,7 +3,7 @@
 ## Énoncé
 
 Dans cet exercice on va apprendre a gérer les inputs utilisateur et a capturer les events et les marquer comme tels.
-C'est-à-dire empêcher la pobagation d'un event lorsqu'il a été traité.
+C'est-à-dire empêcher la propagation d'un event lorsqu'il a été traité.
 
 * Lorsque j'appuie sur la touche K du clavier il doit y avoir écrit:
 
