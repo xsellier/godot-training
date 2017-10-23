@@ -26,3 +26,13 @@ Une personne ne peut être tirée au sort qu'une seule fois, et lorsqu'elle est 
 Pour déclencher le tirage, il faudra cliquer sur un bouton 'Tirer au sort'.
 
 La scène doit être de résolution 800x600
+
+## Correction
+
+[Voir la correction](./correction)
+
+## Exécuter le script
+
+```shell
+godot -path correction/
+```
