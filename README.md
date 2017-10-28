@@ -29,7 +29,7 @@ Si jamais le premier exercice est trop corriace, voici deux sites qui permettent
 
 ## Ou poser des questions ?
 
-Afin de faciliter notre communication, nous avons mis en place un [serveur discord](https://discordapp.com/invite/YUktg7K)
+Afin de faciliter notre communication, nous avons mis en place un [serveur discord](https://discordapp.com/invite/9An2mpR)
 
 ## Comment proposer un exercice ?
 
