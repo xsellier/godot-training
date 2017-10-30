@@ -37,4 +37,4 @@ Créez l'exercice en vous basant sur un fork de ce git repository, puis faites u
 
 ### Qu'est ce que git ?
 
-Un seul site va tout vous apprendre [gitimmersion (fr)](http://gitimmersion.fr/), ou le site original [gitimmersion (en)](gitimmersion.com).
+Un seul site va tout vous apprendre [gitimmersion (fr)](http://gitimmersion.fr/), ou le site original [gitimmersion (en)](http://gitimmersion.com).
