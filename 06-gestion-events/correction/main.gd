@@ -2,7 +2,7 @@ extends Control
 
 # Il faut savoir capturer les event mais aussi les marquer comme traité.
 # Il existe plusieurs manières de capturer un event dans godot, et il existe deux manières de les marquer comme capturer
-# Par dfaut vous pouvez utiliser `get_tree().set_input_as_handled()`.
+# Par défaut vous pouvez utiliser `get_tree().set_input_as_handled()`.
 # Il y a une exception pour c'est lorsque vous faites
 # self.connect('input_event', self, 'input_event')
 # Pour marquer ce genre d'event comme traité, il faut appeler `accept_event()`
@@ -11,7 +11,7 @@ extends Control
 const DEFAULT_SENTENCE = 'Appuyez sur une touche'
 const INVALID_KEY = 'Bonjour, je ne reconnaîs pas la touche qui a été pressée'
 const MOUSE_EVENT = 'Arrêtez ça chatouille !'
-const KEY_COMBINATION = {
+const KEY_COMBINATIONS = {
   ui_k = 'Bonjour, vous avez appuyé sur K',
   ui_o = 'Bonjour, avez-vous appuyé sur la touche O ?',
   ui_ctrl_k = 'Bonjour, comment allez vous ?',
@@ -47,7 +47,7 @@ func _unhandled_key_input(key_event):
   if key_event.pressed:
     var processed = false
     var index = 0
-    var keys = KEY_COMBINATION.keys()
+    var keys = KEY_COMBINATIONS.keys()
     var size = keys.size()
     var label = INVALID_KEY
 
@@ -55,7 +55,7 @@ func _unhandled_key_input(key_event):
       var action = keys[index]
 
       if key_event.is_action_pressed(action):
-        label = KEY_COMBINATION[action]
+        label = KEY_COMBINATIONS[action]
 
         processed = true
 
