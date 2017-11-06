@@ -7,7 +7,7 @@ Créer un thème dans godot engine permet de gagner du temps lorsqu'on fait un j
 - Panel
 - PanelContainer
 - LineEdit
-- PopupPanel
+- WindowDialog
 - Fonts
 - Spinbox
 - MarginContainer
@@ -16,3 +16,13 @@ Pour ceux qui n'ont pas trouvé de thème a leur goùt, nous allons utiliser les
 
 Voici comment créer un thème dans Godot:
 ![godot-theme](./godot-theme.gif)
+
+## Correction
+
+[Voir la correction](./correction)
+
+## Exécuter le script
+
+```shell
+godot -path correction/
+```
