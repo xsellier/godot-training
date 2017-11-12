@@ -13,3 +13,15 @@ La ligne orange sur l'illustration représente la trajectoire approximative de l
 Voici les ressources pour mener a bien cet exercice:
 
 [Resources](./resources.tar.gz)
+
+## Correction
+
+[Voir la correction](./correction)
+
+![Comme ça](illustration.gif)
+
+## Exécuter le script
+
+```shell
+godot -path correction/
+```
