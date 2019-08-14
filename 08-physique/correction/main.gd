@@ -21,4 +21,6 @@ func spawn(ball=null):
   visibility_notifier_node.connect('exit_screen', self, 'spawn', [ball_scene])
 
   # On ajoute la balle à la scène courante
-  add_child(ball_scene)
+  # on le fait dans un call deferred car on souhaite que le node soit ajouté
+  # à la bonne étape du cycle de la MainLoop de Godot Engine.
+  call_deferred('add_child', ball_scene)
