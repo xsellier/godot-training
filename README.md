@@ -29,7 +29,8 @@ Si jamais le premier exercice est trop corriace, voici deux sites qui permettent
 
 ## Ou poser des questions ?
 
-Afin de faciliter notre communication, nous avons mis en place un [serveur discord](https://discordapp.com/invite/9An2mpR)
+Afin de faciliter notre communication, nous avons mis en place un [serveur discord](https://discordapp.com/invite/9An2mpR). Un site officiel a été créé pour la communauté francophone de Godot Engine:
+https://www.godot-francophone.org
 
 ## Comment proposer un exercice ?
 
